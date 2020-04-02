@@ -2,7 +2,9 @@
   "name": "code-split",
   "version": "0.1.0",
   "private": true,
+  "homepage": "file:///E:/workspace/create-react-app/code-split/build/",
   "dependencies": {
+    "html-to-react": "^1.4.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
